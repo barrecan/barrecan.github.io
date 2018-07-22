@@ -104,10 +104,10 @@ url-pretty: "barrecan.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-# gtag: "UA-122592096-1"
+gtag: "UA-122592096-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-# google_analytics: "122592096"
+google_analytics: "122592096"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -124,7 +124,7 @@ url-pretty: "barrecan.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "@barrecan"
+disqus: "barrecan"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
