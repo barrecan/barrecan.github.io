@@ -42,12 +42,12 @@ avatar: "/img/lux_interior_cropped.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#ABC7D6"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#6984AD"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: true
   email: "barrecan@gmail.com"
 # facebook: daattali
   twitter: barrecan
@@ -93,7 +93,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: true
   linkedin: true
 
@@ -104,10 +104,10 @@ url-pretty: "barrecan.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+# gtag: "UA-122592096-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+# google_analytics: "122592096"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -124,7 +124,7 @@ url-pretty: "barrecan.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+ disqus: "barrecan"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
